@@ -6,7 +6,7 @@ The dataset used in this project is built into the scikit-learn Python library.
 
 To view the result of this project, you can directly open the <a href='California_price_map.html'>`California_price_map.html`</a> file.
 
-<a href='California_price_map.html'>`California_price_map.html`</a> ← Download and Click this link and select open on Browser
+<a href='California_price_map.html'>`California_price_map.html`</a> ← Download and open on Browser
 
 ## Tool Use
 

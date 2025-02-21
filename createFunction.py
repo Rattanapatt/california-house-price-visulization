@@ -18,7 +18,7 @@ def create_price_map(df, lat, lng, price, size, income, filename="Untitled"):
         House Value: ${normalized_price:2f}<br>
         Average Size: {normalized_size}<br>
         Population: {row['Population']}<br>
-        Income: ${row[inc]:.2f}
+        Income: ${row[income]:.2f}
         """
         
         folium.CircleMarker(
